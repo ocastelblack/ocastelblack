@@ -13,6 +13,13 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+---
+
+## 🎬 Cinematic Intro
+
+<p align="center">
+  <img src="./assets/Cinematic_dark_tech.gif" width="700"/>
+</p>
 
 ---
 
@@ -25,6 +32,14 @@ Currently evolving into **QA Automation**, integrating testing strategies into d
 Beyond engineering, I work with **Video Editing & AI-powered workflows**, combining technology and creativity to build digital experiences with impact.
 
 > Build. Test. Improve. Create.
+
+---
+
+## 🚀 Tech Visual Showcase
+
+<p align="center">
+  <img src="./assets/tech.gif" width="700"/>
+</p>
 
 ---
 

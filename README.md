@@ -1,84 +1,95 @@
-# 👋 Hi, I'm Oscar Castelblanco
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Oscar Castelblanco</h1>
+<h3 align="center">💻 Software Engineer | 🧪 QA Automation | 🎬 Video Editor | 🤖 AI Enthusiast</h3>
 
-💻 Full Stack Developer | 🧪 QA Automation in progress  
-📍 Bogotá, Colombia  
-🚀 5+ years building scalable backend systems  
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscard-castelblanco-amaya-0a4112148">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:oscard.castelblanco@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Software Developer with over 5 years of experience building enterprise solutions using Python, Odoo, Oracle and modern backend technologies.  
+I'm a **Full Stack Developer with 5+ years of experience** building enterprise-grade systems.  
+Currently evolving into **QA Automation**, integrating testing strategies into development workflows.
 
-Currently transitioning strategically into **QA Automation**, combining my development background with a quality-driven mindset to build and validate reliable, scalable systems.
+But I don’t stop at code.
 
-I don't just write code — I understand how systems behave, where they break, and how to prevent it.
+I also work in **Video Editing and AI-powered creative workflows**, combining technology and creativity to build impactful digital solutions.
+
+> I build systems.  
+> I test systems.  
+> I optimize systems.  
+> I create digital experiences.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Backend
-- Python (FastAPI, Flask)
-- Java (Spring Boot)
-- .NET / C#
-- Odoo Development
-- REST APIs
+### 💻 Backend & Development
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,spring,dotnet,cs,js,php" />
+</p>
 
 ### 🗄 Databases
-- Oracle (PL/SQL)
-- PostgreSQL
-- SQL Server
-- SQLAlchemy ORM
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://img.shields.io/badge/Oracle-PLSQL-red?style=flat&logo=oracle" />
+</p>
 
-### 🧪 QA & Testing
-- API Testing
-- Test Case Design
-- Swagger / OpenAPI
-- Postman
-- Quality Analysis mindset
+### 🧪 QA & Testing Focus
+<p>
+<img src="https://img.shields.io/badge/API Testing-Professional-blue?style=flat" />
+<img src="https://img.shields.io/badge/Test Case Design-Advanced-green?style=flat" />
+<img src="https://img.shields.io/badge/Swagger-OpenAPI-orange?style=flat&logo=swagger" />
+<img src="https://img.shields.io/badge/Postman-API Tools-orange?style=flat&logo=postman" />
+</p>
 
-### ⚙ Tools & Practices
-- Git & GitHub
-- Scrum / Agile
-- Clean Architecture
-- Version Control
-- Backend Optimization
+### 🎬 Creative & AI Tools
+<p>
+<img src="https://img.shields.io/badge/Video Editing-Creative-black?style=flat" />
+<img src="https://img.shields.io/badge/AI Workflows-Automation-purple?style=flat" />
+<img src="https://img.shields.io/badge/Content Creation-Digital Media-blueviolet?style=flat" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚗 Parking Management API
-Backend system built with Flask & SQLAlchemy.
-- Business rules implementation
-- Capacity control & rate calculation
-- Daily revenue reporting
+### 🚗 Parking Backend System
+Business-driven API built with Flask & SQLAlchemy.
+- Complex business logic
+- Capacity validation
+- Revenue calculations
 - Swagger documentation
 
-### 📦 Perishable Inventory API
-FastAPI-based system for inventory management.
-- Expiration date validation
-- Structured API design
-- Modular backend architecture
-- Data validation with Pydantic
+### 📦 Inventory System (Perishables)
+FastAPI-based backend architecture.
+- Expiration tracking
+- Structured modular design
+- Pydantic validation
+- RESTful architecture
 
 ---
 
 ## 🎯 Current Focus
 
-- Advancing in QA Automation  
-- Improving automated testing strategies  
-- CI/CD integration  
-- Building high-quality backend systems  
+- 🔍 QA Automation & API Testing
+- ⚙ CI/CD integration
+- 🧠 AI-powered productivity
+- 📈 Clean architecture & scalable backend systems
 
 ---
 
-## 📫 Let's Connect
+## ⚡ Philosophy
 
-- 💼 LinkedIn: www.linkedin.com/in/oscard-castelblanco-amaya-0a4112148
-- 📧 Email: oscard.castelblanco@gmail.com
-
----
-
-⚡ *Building. Testing. Improving. Repeating.*
+```python
+while True:
+    build()
+    test()
+    improve()

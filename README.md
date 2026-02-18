@@ -6,7 +6,7 @@
 <h2 align="center">💻 Backend Engineer • 🧪 QA Automation • 🎬 Video Editor • 🤖 AI Explorer</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/oscar-danilo-castelblanco">
+  <a href="https://www.linkedin.com/in/oscar-danilo-castelblanco" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:oscard.castelblanco@gmail.com">
@@ -38,7 +38,7 @@ Beyond engineering, I work with **Video Editing & AI-powered workflows**, combin
 ## 🚀 Tech Visual Showcase
 
 <p align="center">
-  <img src="./assets/tech.gif" width="700"/>
+  <img src="./assets/tecnologis.gif" width="700"/>
 </p>
 
 ---

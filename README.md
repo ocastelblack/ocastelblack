@@ -1,13 +1,16 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm Oscar Castelblanco</h1>
-<h3 align="center">💻 Software Engineer | 🧪 QA Automation | 🎬 Video Editor | 🤖 AI Enthusiast</h3>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Oscar%20Castelblanco&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20QA%20Automation%20|%20AI%20Creative&descAlignY=55&descAlign=50" />
+</p>
+
+<h2 align="center">💻 Backend Engineer • 🧪 QA Automation • 🎬 Video Editor • 🤖 AI Explorer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscard-castelblanco-amaya-0a4112148">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:oscard.castelblanco@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -15,17 +18,13 @@
 
 ## 🧠 About Me
 
-I'm a **Full Stack Developer with 5+ years of experience** building enterprise-grade systems.  
-Currently evolving into **QA Automation**, integrating testing strategies into development workflows.
+I'm a Software Engineer with 5+ years of experience building enterprise backend systems.
 
-But I don’t stop at code.
+Currently evolving into **QA Automation**, integrating testing strategies into development workflows to build reliable, scalable and high-performance systems.
 
-I also work in **Video Editing and AI-powered creative workflows**, combining technology and creativity to build impactful digital solutions.
+Beyond engineering, I work with **Video Editing & AI-powered workflows**, combining technology and creativity to build digital experiences with impact.
 
-> I build systems.  
-> I test systems.  
-> I optimize systems.  
-> I create digital experiences.
+> Build. Test. Improve. Create.
 
 ---
 
@@ -39,57 +38,74 @@ I also work in **Video Editing and AI-powered creative workflows**, combining te
 ### 🗄 Databases
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://img.shields.io/badge/Oracle-PLSQL-red?style=flat&logo=oracle" />
+<img src="https://img.shields.io/badge/Oracle-PLSQL-red?style=flat&logo=oracle"/>
 </p>
 
 ### 🧪 QA & Testing Focus
 <p>
-<img src="https://img.shields.io/badge/API Testing-Professional-blue?style=flat" />
-<img src="https://img.shields.io/badge/Test Case Design-Advanced-green?style=flat" />
-<img src="https://img.shields.io/badge/Swagger-OpenAPI-orange?style=flat&logo=swagger" />
-<img src="https://img.shields.io/badge/Postman-API Tools-orange?style=flat&logo=postman" />
+<img src="https://img.shields.io/badge/API Testing-Advanced-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Test Case Design-Professional-green?style=flat"/>
+<img src="https://img.shields.io/badge/Swagger-OpenAPI-orange?style=flat&logo=swagger"/>
+<img src="https://img.shields.io/badge/Postman-API Testing-orange?style=flat&logo=postman"/>
 </p>
 
 ### 🎬 Creative & AI Tools
 <p>
-<img src="https://img.shields.io/badge/Video Editing-Creative-black?style=flat" />
-<img src="https://img.shields.io/badge/AI Workflows-Automation-purple?style=flat" />
-<img src="https://img.shields.io/badge/Content Creation-Digital Media-blueviolet?style=flat" />
+<img src="https://img.shields.io/badge/Video Editing-Creative-black?style=flat"/>
+<img src="https://img.shields.io/badge/AI Workflows-Automation-purple?style=flat"/>
+<img src="https://img.shields.io/badge/Digital Content-Production-blueviolet?style=flat"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚗 Parking Backend System
-Business-driven API built with Flask & SQLAlchemy.
-- Complex business logic
+### 🚗 Parking Backend API
+Flask + SQLAlchemy business-driven backend.
 - Capacity validation
 - Revenue calculations
 - Swagger documentation
+- Structured architecture
 
-### 📦 Inventory System (Perishables)
-FastAPI-based backend architecture.
+### 📦 Perishable Inventory API
+FastAPI modular system.
 - Expiration tracking
-- Structured modular design
 - Pydantic validation
-- RESTful architecture
+- Clean REST architecture
+- Scalable design
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Now Building...
 
-- 🔍 QA Automation & API Testing
-- ⚙ CI/CD integration
-- 🧠 AI-powered productivity
-- 📈 Clean architecture & scalable backend systems
+- 🧪 QA Automation Framework (API-based)
+- ⚙ CI/CD integration for backend testing
+- 🤖 AI-assisted productivity workflows
+- 📈 Improving system observability & logging
 
 ---
 
-## ⚡ Philosophy
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ocastelblack&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocastelblack&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocastelblack&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ Engineering Philosophy
 
 ```python
 while True:
     build()
     test()
-    improve()
+    optimize()
+    create()
